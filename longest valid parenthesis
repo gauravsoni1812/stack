@@ -1,5 +1,8 @@
 https://practice.geeksforgeeks.org/problems/longest-valid-parentheses5657/1
 
+https://youtu.be/G53_EUjUYcQ 
+see this vedio
+
     int ans = 0;
     int n = s.size();
     stack<int> index;
